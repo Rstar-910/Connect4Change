@@ -1,12 +1,25 @@
-# React + Vite
+Connect4Change-Web Platform for crowdsourced Social Good Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Usecase-A platform connecting volunteers,NGOs and government bodies to collaborate on local issues.
 
-Currently, two official plugins are available:
+KEY FEATURES
+Interactive,Responsive and Minimalist UI with no clutter.
+Seamless Navigation – Smooth and intuitive browsing.
+Authentication Support through JWT for Volunteers,NGOs and Government Organisation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HOW TO USE
 
-## Expanding the ESLint configuration
+# Clone this repository
+$ git clone https://github.com/Rstar-910/Connect4Change.git
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Go into the repository
+$ cd Connect4Change
+
+# Install dependencies
+$ npm install
+
+#Run
+$ npm run dev
+
+
+
